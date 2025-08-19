@@ -2,7 +2,7 @@
 
 # 📝 To-Do-List
 
-A basic yet effective To-Do List application to help you organize tasks and boost productivity. This project provides a simple interface to add, view, and manage your daily to-dos. -----
+A basic yet effective To-Do List application to help you organize tasks and boost productivity. This project provides a simple interface to add, view, and manage your daily to-dos. ----
 
 ---
 
