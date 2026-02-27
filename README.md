@@ -3,7 +3,7 @@
 # 📝 To-Do-List
 
 A simple and basic to-do list web application to help you organize your daily tasks efficiently.  
-Easily add, manage, and keep track of your tasks in a user-friendly
+Easily add, manage, and keep track of your tasks in a user-friendly interface.
 
 ---
 
